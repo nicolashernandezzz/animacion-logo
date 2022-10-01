@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+#N1 {
+    animation-delay: .5s;
+}
+#N2 {
+    animation-delay: 1s;
+}
+#N3 {
+    animation-delay: 1.5s;
+}
+#N4 {
+    animation-delay: 2s;
+}
+#N5 {
+    animation-delay: 2.5s;
+}
+#N6 {
+    animation-delay: 3s;
+}
+
+.jeje {
+    height: 100vh;
+    overflow: hidden;
+}
